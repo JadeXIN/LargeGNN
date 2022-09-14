@@ -40,6 +40,6 @@ torch_geometric==2.0.3
 
 
 ## Acknowledgement
-We refer to the codes of these repos: [OpenEA](https://github.com/nju-websoft/OpenEA), Dual-AMN(https://github.com/MaoXinn/Dual-AMN), [LargeEA](https://github.com/ZJU-DAILY/LargeEA), [LIME](https://github.com/DexterZeng/LIME), [ClusterGCN](https://github.com/benedekrozemberczki/ClusterGCN).
+We refer to the codes of these repos: [OpenEA](https://github.com/nju-websoft/OpenEA), [Dual-AMN](https://github.com/MaoXinn/Dual-AMN), [LargeEA](https://github.com/ZJU-DAILY/LargeEA), [LIME](https://github.com/DexterZeng/LIME), [ClusterGCN](https://github.com/benedekrozemberczki/ClusterGCN).
 Thanks for their great contributions!
 
