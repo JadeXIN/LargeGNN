@@ -36,6 +36,7 @@ You can refer to the requirements of [Dual-AMN](https://github.com/MaoXinn/Dual-
 - torch_geometric==2.0.3
 
 #### DBpedia1M dataset
+We construct a new large-scale dataset for EA. It contains millions of entities, and include a large number of non-matchable entities, which is coincident with the real KGs.
 The dataset can be downloaded from [figshare](https://figshare.com/articles/dataset/DBpedia1M/21119380).
 
 ## Acknowledgement
