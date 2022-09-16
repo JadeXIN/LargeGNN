@@ -11,10 +11,10 @@ during the inference process, we merge the embeddings of subgraphs to make a sin
 We build our model based on [Python](https://www.python.org/) and [Tensorflow](https://www.tensorflow.org/). 
 
 ### Getting Started
-Please unzip the src.zip and place it in your project folder. You can test our implementation by runing main_ea.py or .sh files. Please modify the path to your configuration at config folder.
+You can test our implementation by runing main_ea.py or .sh files. Please modify the path to your configuration at config folder. 
 
 #### Dependencies
-You can refer to the requirements of [Dual-AMN](https://github.com/MaoXinn/Dual-AMN) to start the implementation of ours.
+As we choose Dual-AMN as our base-model, you can refer to the requirements of [Dual-AMN](https://github.com/MaoXinn/Dual-AMN) to start the implementation of ours.
 
 - Python 3.x (tested on Python 3.8)
 - matplotlib==3.1.1
